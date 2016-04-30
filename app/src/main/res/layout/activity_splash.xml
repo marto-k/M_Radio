@@ -14,7 +14,7 @@
     <ImageView
         android:layout_width="140dp"
         android:layout_height="140dp"
-        android:src="@drawable/icon_google_play_store" />
+        android:src="@drawable/splash" />
 
     <View
         android:layout_width="0dp"
@@ -24,7 +24,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="[kdic]"
+        android:text="m_radio"
         android:textColor="@color/accent"
         android:textSize="32sp" />
 
