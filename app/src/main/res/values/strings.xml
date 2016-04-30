@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M_Radio</string>
+    <string name="station_name">M_Radio 88.5</string>
+    <string name="action_settings">Settings</string>
+</resources>
